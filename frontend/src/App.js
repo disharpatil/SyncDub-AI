@@ -675,7 +675,7 @@ export default function App() {
     }
   };
 
-  const currentStepIndex = STEPS.findIndex(s => progress <= s.end);
+  
 
   return (
     <div className="app-root">
