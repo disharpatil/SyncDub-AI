@@ -37,10 +37,13 @@ The system follows a sequential multi-stage pipeline:
 
 ## 📦 Installation & Setup
 
-1. **Clone the Project**:
-   ```bash
-   git clone https://github.com/dhruvKuchekar123/SyncDub-AI-based-Audio-Video-Dubbing-and-Lip-Syncing.git
-   ```
+**1. Clone the Project**
+
+```bash
+git clone https://github.com/disharpatil/SyncDub-AI.git
+```
+
+**GitHub Repository:** [SyncDub-AI – Disha Patil](https://github.com/disharpatil/SyncDub-AI)
 
 2. **Backend Setup**:
    - Install dependencies: `pip install -r requirements.txt`
